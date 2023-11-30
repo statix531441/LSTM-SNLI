@@ -1,8 +1,11 @@
 # Local files and folders
 *.pdf
 *.xopp
+*.zip
 data/
 models/
+original/
+
 
 
 # Byte-compiled / optimized / DLL files
